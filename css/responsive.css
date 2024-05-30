@@ -9,7 +9,7 @@ footer {padding: 60px 0 35px;}
 .logo img{ height:110px;}
 
 .logocol {padding: 0 0 50px;}
-.logocol img{ height:45px; margin:0 auto;}
+.logocol img{ height:60px; margin:0 auto;}
 
 .contentlist ul li{ margin-bottom:30px;}
 .subpageList ul li a{ font-size:17px;  }
@@ -33,7 +33,7 @@ footer img{ height:50px; width:auto;}
 .suppagecontent {padding: 2% 0 5%;}
 footer {padding: 60px 0 35px;}
 footer img{ height:50px; width:auto;}
-.logocol img {height: 60px;}
+.logocol img {height: 70px;}
 }
 
 @media (min-width:481px) and (max-width:767px) {
@@ -41,7 +41,7 @@ header{ padding:15px 0;}
 .backtohome, .backtopre{ width:50px; height:50px; border-radius:10px;}
 .backtohome img, .backtopre img{ width:50%;}
 .logo img{ height:70px;}
-.logocol img{ height:50px; margin:0 auto;}
+.logocol img{ height:70px; margin:0 auto;}
 .midbor{ border-top:2px solid #01a6de; border-bottom:2px solid #01a6de;  border-right:0; border-left:0; padding:35px 0 ; margin-bottom:35px}
 .logocol {padding: 0 0 30px;}
 .contentlist ul li a{ max-width:90%;}
@@ -73,4 +73,8 @@ header{ padding:15px 0;}
 .suppagecontent {padding: 2% 0 5%;}
 footer {padding: 30px 0 15px;}
 footer img{ height:50px; width:auto;}
+
+  body.linkpage {
+    padding-bottom: 0px;
+  }
 }

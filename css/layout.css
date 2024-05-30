@@ -11,7 +11,7 @@ header{ width:100%; clear:both; position:relative; overflow:hidden; padding:55px
 .logo img{ display:block; margin:0 auto; height:130px;}
 .homecontent{ width:100%; clear:both; overflow:hidden; margin:0; padding:5% 0 0;}
 .logocol{ width:100%; text-align:center; overflow:hidden; padding:0 0 80px;}
-.logocol img {height: 60px;}
+.logocol img {height: 90px;}
 .contentCOl{ text-align:center;}
 .contentlist{ text-align:center; position:relative; overflow:hidden;}
 .contentlist ul { margin:0; padding:0; width:100%; display:block;}
@@ -31,3 +31,28 @@ footer img{ height:50px;}
 .ZTXPCRlogo{}
 
 .contentCOl{ padding-top:30px; padding-bottom:30px;}
+.linkpage{ padding-top:25px; background:#3a3a3a;}
+iframe{ width:100%; height:100vh}
+.linkpage footer{ position:relative; padding:15px 0;}
+.linkpage header {
+  width: 100%;
+  clear: both;
+  position: relative;
+  overflow: hidden;
+  padding:25px 0 10px;
+}
+.linkpage .suppagecontent{ padding:0; overflow:hidden;}
+
+.backtoprelink {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  z-index: 999;
+}
+
+.backtohomelink{position: absolute;
+  top: 30px;
+  left: 30px;
+  z-index: 999;}
+
+.linkpage .suppagecontent iframe {   margin-top:-49px;}
