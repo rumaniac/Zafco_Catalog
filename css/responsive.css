@@ -1,0 +1,76 @@
+@media (min-width:1200px) and (max-width:1440px) {
+.logocol {padding: 0 0 50px;}
+.logocol img{ height:60px; margin:0 auto;}
+ .suppagecontent {padding: 2% 0 5%;}
+footer {padding: 60px 0 35px;}
+}
+@media (min-width:992px) and (max-width:1199px) {
+ .backtohome img, .backtopre img{ width:50%;}
+.logo img{ height:110px;}
+
+.logocol {padding: 0 0 50px;}
+.logocol img{ height:45px; margin:0 auto;}
+
+.contentlist ul li{ margin-bottom:30px;}
+.subpageList ul li a{ font-size:17px;  }
+.pagetitle h2 { font-size: 40px;}
+.suppagecontent {padding: 2% 0 5%;}
+footer {padding: 60px 0 35px;}
+footer img{ height:50px; width:auto;}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+ .backtohome img, .backtopre img{ width:50%;}
+.logo img{ height:110px;}
+.midbor{ border-top:2px solid #01a6de; border-bottom:2px solid #01a6de;  border-right:0; border-left:0; padding:35px 0 ; margin-bottom:35px}
+.logocol {padding: 0 0 30px;}
+.contentlist ul li {width: 50%;margin: 0 0 35px;float: left;}
+.contentlist ul li a{ max-width:90%;}
+.contentlist .singlelist li{ display:inline-block; float:none;}
+.subpageList ul li {width: 49%;margin: 3% 0 1% 0;}
+.subpageList ul li a{ font-size:18px;border-radius:8px;  }
+.pagetitle h2 { font-size: 40px;}
+.suppagecontent {padding: 2% 0 5%;}
+footer {padding: 60px 0 35px;}
+footer img{ height:50px; width:auto;}
+.logocol img {height: 60px;}
+}
+
+@media (min-width:481px) and (max-width:767px) {
+header{ padding:15px 0;}
+.backtohome, .backtopre{ width:50px; height:50px; border-radius:10px;}
+.backtohome img, .backtopre img{ width:50%;}
+.logo img{ height:70px;}
+.logocol img{ height:50px; margin:0 auto;}
+.midbor{ border-top:2px solid #01a6de; border-bottom:2px solid #01a6de;  border-right:0; border-left:0; padding:35px 0 ; margin-bottom:35px}
+.logocol {padding: 0 0 30px;}
+.contentlist ul li a{ max-width:90%;}
+.contentlist ul li {width: 50%;margin: 0 0 35px;float: left;}
+.contentlist .singlelist li{ display:inline-block; float:none;}
+.subpageList ul li {width: 49%;margin: 3% 0 1% 0;}
+.subpageList ul li a{ font-size:15px; border-radius:6px; }
+.pagetitle h2 { font-size: 30px;}
+.suppagecontent {padding: 2% 0 5%;}
+footer {padding: 60px 0 35px;}
+footer img{ height:50px; width:auto;}
+
+}
+
+@media (min-width:320px) and (max-width:480px) {
+body{ padding-bottom:90px;}
+header{ padding:15px 0;}
+.backtohome, .backtopre{ width:36px; height:36px; border-radius:6px;}
+.backtohome img, .backtopre img{ width:50%;}
+.logo img{ height:60px;}
+.logocol img{ width:60%; height:auto; margin:0 auto;}
+.midbor{ border-top:2px solid #01a6de; border-bottom:2px solid #01a6de;  border-right:0; border-left:0; padding:35px 0 ; margin-bottom:35px}
+.logocol {padding: 0 0 20px;}
+.contentlist ul li {margin: 0 0 20px;}
+.subpageList ul li {width: 100%;margin: 1% 0 1% 0;}
+.contentlist ul li a {max-width: 70%; line-height:50px; font-size: 20px;}
+.subpageList ul li a {font-size: 16px; width: 100%; border-radius:6px;}
+.pagetitle h2 { font-size: 20px;}
+.suppagecontent {padding: 2% 0 5%;}
+footer {padding: 30px 0 15px;}
+footer img{ height:50px; width:auto;}
+}
